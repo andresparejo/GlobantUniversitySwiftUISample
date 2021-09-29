@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>trending</key>
+	<string>trending/all/day</string>
+	<key>popular</key>
+	<string>%@/popular</string>
+	<key>movie_detail</key>
+	<string>movie/%@</string>
+	<key>tv_show_detail</key>
+	<string>tv/%@</string>
+	<key>search_by_word</key>
+	<string>query=%@&amp;page=%@</string>
+</dict>
+</plist>

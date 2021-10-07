@@ -172,13 +172,6 @@
 			path = Show;
 			sourceTree = "<group>";
 		};
-		A87EAD572703BEBB0006E6CC /* Popular */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Popular;
-			sourceTree = "<group>";
-		};
 		A87EAD5A2703C0370006E6CC /* Core */ = {
 			isa = PBXGroup;
 			children = (
@@ -270,7 +263,6 @@
 			isa = PBXGroup;
 			children = (
 				A87EAD5A2703C0370006E6CC /* Core */,
-				A87EAD572703BEBB0006E6CC /* Popular */,
 				A87EAD522703BEB80006E6CC /* Show */,
 				A87EAD582703BECF0006E6CC /* MediaType.swift */,
 			);
